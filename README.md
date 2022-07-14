@@ -1,5 +1,10 @@
 # startkit-for-js
 
+js 연습을 하기 위한 스타트킷입니다 :)
+
+* main.js 를 개발하고 작동시켜보고 싶다면 `yarn start`
+* main.js 의 컨벤션을 정리하고 싶으시다면 `yarn lint:fix` 
+
 ## 환경설정
 
 ### Mac 이라면
@@ -29,10 +34,8 @@ ZSH_THEME="agnoster"
 #### 폰트설치
 https://github.com/naver/d2codingfont
 
-
 ### Window 이라면
 
-#### 원기옥을 모으세요
 * node : https://nodejs.org/ko/download/
 * yarn : https://classic.yarnpkg.com/en/docs/install/#mac-stable
 
